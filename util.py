@@ -16,15 +16,15 @@ def current_date():
 
 
 def current_date_year():
-    return datetime.now().astimezone().strftime('%Y-%m-%d')
+    return datetime.now().astimezone().strftime('%Y')
 
 
 def current_date_month():
-    return datetime.now().astimezone().strftime('%Y-%m-%d')
+    return datetime.now().astimezone().strftime('%m')
 
 
 def current_date_day():
-    return datetime.now().astimezone().strftime('%Y-%m-%d')
+    return datetime.now().astimezone().strftime('%d')
 
 
 def ensure_dir(file):
