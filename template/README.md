@@ -4,9 +4,9 @@
 
 ## 相关项目
 
-- [知乎热榜](https://github.com/hotarchives/zhihu)
-- [微博热榜](https://github.com/hotarchives/weibo)
-- [头条热榜](https://github.com/hotarchives/toutiao)
+- [知乎热榜](https://github.com/hotarchive/zhihu)
+- [微博热榜](https://github.com/hotarchive/weibo)
+- [头条热榜](https://github.com/hotarchive/toutiao)
 
 
 `更新时间：{updateTime}`
